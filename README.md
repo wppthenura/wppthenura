@@ -1,4 +1,4 @@
-### Hi there 👋, W.P.Pulindu Thenura
+### Hi there 👋,I am W.P.Pulindu Thenura
 #### Software Engineer | Design and Development
 ![Software Engineer | Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
