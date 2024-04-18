@@ -2,7 +2,7 @@
 #### Software Engineer | Design and Development
 ![Software Engineer | Design and Development](https://github.com/wppthenura/wppthenura/blob/main/Fiverr%20Typing%20job%20thumbnail.1.jpg)
 
-I'm Pulindu fron Sri Lanka and I am currently enrolled as an undergraduate student pursuing a BSc (Honours) in Software Engineering through Plymouth University England, with studies conducted at NSBM Green University Sri Lanka.
+I'm Pulindu from Sri Lanka and I am currently enrolled as an undergraduate student pursuing a BSc (Honours) in Software Engineering through Plymouth University England, with studies conducted at NSBM Green University Sri Lanka.
 
 Skills: REACT / JS / HTML / CSS
 
