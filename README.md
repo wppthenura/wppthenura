@@ -1,5 +1,5 @@
 ### Hi there 👋,I am W.P.Pulindu Thenura
-#### Software Engineer | Design and Development
+#### Software Engineering | Design and Development
 
 I'm Pulindu from Sri Lanka and I am currently enrolled as an undergraduate student pursuing a BSc (Honours) in Software Engineering through Plymouth University England, with studies conducted at NSBM Green University Sri Lanka.
 ![github](https://github.com/wppthenura/wppthenura/blob/main/Business%20pic.01.png
