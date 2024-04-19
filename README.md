@@ -6,8 +6,8 @@ I'm Pulindu from Sri Lanka and I am currently enrolled as an undergraduate stude
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on My own Company 
-- 🌱 I’m currently learning Software Engineering 
+- 🔭 I’m currently available for any vaccancies.
+- 🌱 I’m currently an undergraduate in Software Engineering. 
 - 📫 Reach me: wppulindum@gmail.com 
 
 
