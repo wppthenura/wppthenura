@@ -3,7 +3,7 @@
 
 I'm Pulindu from Sri Lanka and I am currently enrolled as an undergraduate student pursuing a BSc (Honours) in Software Engineering through Plymouth University England, with studies conducted at NSBM Green University Sri Lanka.
 
-)
+
 
 Skills: REACT / JS / HTML / CSS
 
