@@ -1,7 +1,10 @@
 <h1 align="center">Hey 👋, I'm Pulindu Thenura</h1>
 <h3 align="center">🚀 Full stack dev, passionate on building powerful applications from backend to frontend</h3>
 
-<p align="center">"There are 10 types of people in the world... those who understand binary and those who don't." 😄</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wppthenura/wppthenura/main/BonaryQuote.png" alt="Binary quote banner" width="400"/>
+</p>
+
 
 ---
 
