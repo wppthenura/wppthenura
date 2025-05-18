@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm a Full Stack Developer</h1>
-<h3 align="center">🚀 Passionate on building powerful applications from backend to frontend</h3>
+<h1 align="center">Hey 👋, I'm Pulindu Thenura</h1>
+<h3 align="center">🚀 Full stack dev, passionate on building powerful applications from backend to frontend</h3>
 
 <p align="center">"There are 10 types of people in the world... those who understand binary and those who don't." 😄</p>
 
@@ -9,8 +9,8 @@
 
 - 💻 Passionate about Full-stack development and crafting intuitive UIs
 - 🌍 Based in **Sri Lanka**
-- 🔭 Working on web apps, mobile apps, and real-time dashboards
-- ⚙️ Skilled in **Firebase, Flutter, React, Node.js**
+- 🔭 Working on Mobile apps, Web apps, Website, and Real-time dashboards
+- ⚙️ Skilled in **C, C#, C++, Java, JavaScript, React.js, Flutter, React, Node.js, Firebase,**
 - ✍️ Sometimes I write blogs to share what I learn
 
 ---
