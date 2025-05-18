@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Pulindu Thenura</h1>
 <h3 align="center">🚀 Full stack dev, passionate about building powerful applications from backend to frontend</h3>
 
-<p align="center">"Binary is just Boolean with commitment issues" </p>"
+<p align="center">"Binary is just Boolean with commitment issues" </p>
 
 
 ---
