@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full stack dev, passionate about building powerful applications from backend to frontend</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wppthenura/wppthenura/main/BinaryQuote.png" alt="Binary quote banner" width="400"/>
+  <img src="https://raw.githubusercontent.com/wppthenura/wppthenura/main/BinaryQuote.png" alt="Binary quote banner" height="100" width="400"/>
 </p>
 
 
