@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm a Full Stack Developer</h1>
-<h3 align="center">🚀 Building powerful apps from backend to frontend</h3>
+<h3 align="center">🚀 Passionate on building powerful applications from backend to frontend</h3>
 
 <p align="center">"There are 10 types of people in the world... those who understand binary and those who don't." 😄</p>
 
@@ -17,21 +17,14 @@
 
 ### 📬 Get in Touch
 
-- 📧 Email: `your-email@example.com`
-- 🌐 Portfolio/Blog: [your-website.me](https://your-website.me)
-- 💼 LinkedIn/GitHub/Twitter: Add your social links here
+- 📧 Email: `wppulindum@gmail.com`
+- 🌐 Portfolio/Blog: ...on..making
+- 💼 LinkedIn: https://www.linkedin.com/in/pulindu-thenura-01a70617a/ 
 
 ---
 
 ### 📝 Latest Blog Posts
 
-- 🚀 *The Rise of Gemini: How Google Challenges GPT*
-- 🧠 *What is Zig? Dive Into the New Programming Language*
-- 🐍 *Python Conditionals Explained Simply*
-- 🌐 *Routers vs Access Points: Networking 101*
-- 🎮 *GameDev from Sri Lanka: Indie Highlights*
-
-> You can automate this list with a blog RSS feed and GitHub Actions if you're using a static blog (like Hugo or Jekyll).
 
 ---
 
@@ -39,11 +32,10 @@
 
 | Platform | Handle |
 |----------|--------|
-| GitHub | `yourusername` |
+| GitHub | `wppthenura` |
 | Twitter | `@yourhandle` |
-| LinkedIn | `/in/yourname` |
-| Website | `yourwebsite.com` |
-| RSS Feed | `yourwebsite.com/rss.xml` |
+| LinkedIn | `/in/pulindu-thenura-01a70617a/` |
+| Website | `...pending` |
 
 ---
 
@@ -82,8 +74,5 @@
 
 ### 🚀 Quote to Live By
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+"no luck, only skills"
 
----
-
-*Made with ❤️ from Sri Lanka*
