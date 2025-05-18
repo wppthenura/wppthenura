@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Pulindu Thenura</h1>
-<h3 align="center">🚀 Full stack dev, passionate on building powerful applications from backend to frontend</h3>
+<h3 align="center">🚀 Full stack dev, passionate about building powerful applications from backend to frontend</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wppthenura/wppthenura/main/BonaryQuote.png" alt="Binary quote banner" width="400"/>
+  <img src="https://raw.githubusercontent.com/wppthenura/wppthenura/main/BinaryQuote.png" alt="Binary quote banner" width="400"/>
 </p>
 
 
