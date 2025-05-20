@@ -1,31 +1,36 @@
 <h1 align="center">Hey 👋, I'm Pulindu Thenura</h1>
 <h3 align="center">🚀 Full stack dev, passionate about building powerful applications from backend to frontend</h3>
 
-<p align="center">"Binary is just Boolean with commitment issues" </p>
+<p align="center">"Binary is just Boolean with commitment issues"</p>
 
+<p align="center">
+  🔗 Check out my latest widget:  
+  👉 <a href="https://wppthenura.github.io/gitpro/" target="_blank"><strong>Live GitHub Widget Demo</strong></a>
+</p>
 
 ---
 
 ### 🧠 About Me
 
-- 💻 Passionate about Full-stack development and crafting intuitive UIs
-- 🌍 Based in **Sri Lanka**
-- 🔭 Working on Mobile apps, Web apps, Website, and Real-time dashboards
-- ⚙️ Skilled in **C, C#, C++, Java, JavaScript, React.js, Flutter, React, Node.js, Firebase,**
+- 💻 Passionate about Full-stack development and crafting intuitive UIs  
+- 🌍 Based in **Sri Lanka**  
+- 🔭 Working on Mobile apps, Web apps, Website, and Real-time dashboards  
+- ⚙️ Skilled in **C, C#, C++, Java, JavaScript, React.js, Flutter, React, Node.js, Firebase,**  
 - ✍️ Sometimes I write blogs to share what I learn
 
 ---
 
 ### 📬 Get in Touch
 
-- 📧 Email: `wppulindum@gmail.com`
-- 🌐 Portfolio/Blog: ...on..making
-- 💼 LinkedIn: https://www.linkedin.com/in/pulindu-thenura-01a70617a/ 
+- 📧 Email: `wppulindum@gmail.com`  
+- 🌐 Portfolio/Blog: ...on..making  
+- 💼 LinkedIn: https://www.linkedin.com/in/pulindu-thenura-01a70617a/  
 
 ---
 
 ### 📝 Latest Blog Posts
 
+<!-- You can automate this section using GitHub Actions or manually update it -->
 
 ---
 
@@ -66,14 +71,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wppthenura&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wppthenura&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-### 🚀 Quote to Live By
 
 "no luck, only skills"
 
