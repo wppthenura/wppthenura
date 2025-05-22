@@ -1,4 +1,3 @@
-<h1 align="center">Hey there 👋, I'm Pulindu Thenura</h1>
 <h3 align="center"> Full-stack Developer | UI/UX Engineer | App Architect | Logical & Creative Thinker | IoT enthusiast</h3>
 <p align="center"><em>"Binary is just Boolean with commitment issues."</em></p>
 
@@ -20,7 +19,9 @@
   <tr>
     <td><img src="Logoostocare.png" alt="OstoCare Logo" width="120"/></td>
     <td>
-      <strong>A Mobile application that is developing for the health care sector, focusing mainly on Ostomy patients.</strong>
+      <h3>Ostocare</h3>
+      <strong>This is a mobile application developed for the healthcare sector, with a primary focus on supporting Ostomy patients.</strong>
+      <br> It is one of my major mobile development projects, created in collaboration with a team of skilled developers.
     </td>
   </tr>
 </table>
@@ -39,5 +40,5 @@
 
 <p align="center"><strong>"No luck, only skills."</strong></p>
 
-- 📧 Email: [`wppulindum@gmail.com`](mailto:wppulindum@gmail.com)
+- 📧 Reach me: [`wppulindum@gmail.com`](mailto:wppulindum@gmail.com)
 
