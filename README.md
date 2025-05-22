@@ -26,7 +26,7 @@
 
 <table>
   <tr>
-    <td><img src="assets/Logoostocare.png" alt="OstoCare Logo" width="120"/></td>
+    <td><img src="Logoostocare.png" alt="OstoCare Logo" width="120"/></td>
     <td>
       <strong>A Mobile application that is developing for the health care sector, focusing mainly on Ostomy patients.</strong>
     </td>
