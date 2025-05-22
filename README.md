@@ -16,9 +16,8 @@
 
 ### 🧠 About Me
 
-- 🇱🇰 Based in **Sri Lanka**
 - 💻 Passionate about **Full-stack development** and intuitive user interfaces
-- 📱 Building **Mobile Apps, Web Apps, Dashboards**, and **Hardware Integrations**
+- 📱 Building **Mobile Applications, Web Applications, Real-time Web Dashboards**, and **Hardware Integrations**
 - ✍️ Occasionally blogging about what I learn
 - 🧰 Tools of the trade: `React.js`, `Flutter`, `Node.js`, `Firebase`, `C++`, `Arduino`, and more
 
@@ -52,7 +51,7 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,flutter,dart,java,c,cpp,cs,mysql,mongodb,firebase,linux,git,postman,arduino,tailwind,photoshop,illustrator&perline=10" alt="Tech Stack" />
@@ -67,13 +66,6 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wppthenura&layout=compact&theme=radical" height="140px"/>
 </p>
-
----
-
-### ✍️ Latest Blog Posts
-
-<!-- Replace this with automated GitHub Actions or manual updates -->
-_📝 Coming soon... Stay tuned!_
 
 ---
 
