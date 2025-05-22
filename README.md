@@ -31,14 +31,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wppthenura&show_icons=true&theme=radical" height="180px"/>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wppthenura&layout=compact&theme=dark" height="140px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wppthenura&layout=compact&" height="140px"/>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=wppthenura&show_icons=true&hide=contribs&count_private=true&theme=dracula" />
-
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wppthenura&" alt="wppthenura" />
 </p>
-
 ---
 
 <h3 align="left">Connect with me:</h3>
