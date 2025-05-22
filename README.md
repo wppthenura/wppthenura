@@ -24,17 +24,14 @@
 
 ---
 
-### 🏢 Contributions to Organizations
-
-I'm actively contributing to open-source and collaborative projects, including:
-
-- Real-time dashboards for IoT devices (Air Quality, Health Monitoring)
-- GitHub Developer Widgets like [GitPro](https://wppthenura.github.io/gitpro/)
-- Open contributions to student support tools, health apps, and device interfaces
-
-_🔍 Let me know if you're looking for a contributor or collaborator!_
-
----
+<table>
+  <tr>
+    <td><img src="assets/Logoostocare.png" alt="OstoCare Logo" width="120"/></td>
+    <td>
+      <strong>A Mobile application that is developing for the health care sector, focusing mainly on Ostomy patients.</strong>
+    </td>
+  </tr>
+</table>
 
 ### 📬 Get in Touch
 
