@@ -12,12 +12,8 @@
 
 ---
 
-### 🧠 About Me
-
-- 💻 Passionate about **Full-stack development** and intuitive user interfaces
-- 📱 Building **Mobile Applications, Web Applications, Real-time Web Dashboards**, and **Hardware Integrations**
-- ✍️ Occasionally blogging about what I learn
-- 🧰 Tools of the trade: `React.js`, `Flutter`, `Node.js`, `Firebase`, `C++`, `Arduino`, and more
+### 🧠 Passionate about building **Mobile Applications, Web Applications, Real-time Web Dashboards**, and **Hardware Integrations** 
+       `React.js`, `Flutter`, `Node.js`, `Firebase`, `C++`, `Arduino`
 
 ---
 
@@ -33,19 +29,7 @@
 ### 📬 Get in Touch
 
 - 📧 Email: [`wppulindum@gmail.com`](mailto:wppulindum@gmail.com)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/pulindu-thenura-01a70617a/)
 - 🌐 Portfolio: _Coming Soon_
-
----
-
-### 🌐 Socials & Connect
-
-| Platform | Link |
-|----------|------|
-| GitHub   | [`wppthenura`](https://github.com/wppthenura) |
-| LinkedIn | [in/pulindu-thenura](https://www.linkedin.com/in/pulindu-thenura-01a70617a/) |
-| Twitter  | `@yourhandle` _(Add link)_ |
-| Website  | _Under construction_ |
 
 ---
 
