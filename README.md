@@ -4,12 +4,10 @@
 
 ---
 
+### Languages | Tools | Frameworks ***skilled with***
+
 <p align="center">
-  Languages | Tools | Frameworks skilled with<br>
-  <a href="https://wppthenura.github.io/gitpro/" target="_blank">
-    <img src="https://img.shields.io/badge/Live-GitPro-blue?style=for-the-badge&logo=github" alt="GitPro Demo" />
-  </a>
-  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,flutter,dart,java,c,cpp,cs,mysql,mongodb,firebase,linux,git,postman,arduino,tailwind,photoshop,illustrator&perline=10" alt="Tech Stack" />
 </p>
 
 ---
@@ -48,14 +46,6 @@
 | LinkedIn | [in/pulindu-thenura](https://www.linkedin.com/in/pulindu-thenura-01a70617a/) |
 | Twitter  | `@yourhandle` _(Add link)_ |
 | Website  | _Under construction_ |
-
----
-
-### Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,flutter,dart,java,c,cpp,cs,mysql,mongodb,firebase,linux,git,postman,arduino,tailwind,photoshop,illustrator&perline=10" alt="Tech Stack" />
-</p>
 
 ---
 
