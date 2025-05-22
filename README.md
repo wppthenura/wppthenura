@@ -1,7 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Pulindu Thenura</h1>
 <h3 align="center"> Full-stack Developer | UI/UX Engineer | App Architect | Logical & Creative Thinker | IoT enthusiast</h3>
 <p align="center"><em>"Binary is just Boolean with commitment issues."</em></p>
-<p align="center">"<strong>Reach me : </strong>[`wppulindum@gmail.com`](mailto:wppulindum@gmail.com)"</p>
 
 ---
 
@@ -26,8 +25,6 @@
   </tr>
 </table>
 
-- 📧 Email: [`wppulindum@gmail.com`](mailto:wppulindum@gmail.com)
-
 ---
 
 ### 📈 GitHub Stats
@@ -41,3 +38,6 @@
 ---
 
 <p align="center"><strong>"No luck, only skills."</strong></p>
+
+- 📧 Email: [`wppulindum@gmail.com`](mailto:wppulindum@gmail.com)
+
