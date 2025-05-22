@@ -12,9 +12,8 @@
 
 ---
 
-### 🧠 Passionate about building **Mobile Applications, Web Applications, Real-time Web Dashboards**, and **Hardware Integrations** 
-       `React.js`, `Flutter`, `Node.js`, `Firebase`, `C++`, `Arduino`
-
+### Passionate about building **Mobile Applications, Web Applications, Real-time Web Dashboards**, and **Hardware Integrations** 
+       `C` , `C#` , `Java` , `Dart` , `Javascript` , `React.js` , `Go` , `PHP` ,  `Firebase` , `MySQL` , `MongoDB` , `C++` , `Arduino`
 ---
 
 <table>
