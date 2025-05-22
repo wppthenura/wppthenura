@@ -33,7 +33,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wppthenura&show_icons=true&theme=radical" height="180px"/>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wppthenura&layout=compact&theme=radical" height="140px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wppthenura&layout=compact&theme=dark" height="140px"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=wppthenura&show_icons=true&hide=contribs&count_private=true&theme=dracula" />
+
 </p>
 
 ---
