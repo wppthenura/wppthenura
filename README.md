@@ -20,8 +20,8 @@
     <td><img src="Logoostocare.png" alt="OstoCare Logo" width="120"/></td>
     <td>
       <h3>Ostocare</h3>
-      <strong>This is a mobile application developed for the healthcare sector, with a primary focus on supporting Ostomy patients.</strong>
-      <br> It is one of my major mobile development projects, created in collaboration with a team of skilled developers.
+      <strong>-This is a mobile application developed for the healthcare sector, with a primary focus on supporting Ostomy patients.
+      <br>-It is one of my major mobile development projects, created in collaboration with a team of skilled developers.</strong>
     </td>
   </tr>
 </table>
