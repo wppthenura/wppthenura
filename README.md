@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Pulindu Thenura</h1>
-<h3 align="center">🚀 Full-stack Developer | UI Enthusiast | Real-time App Architect</h3>
+<h3 align="center"> Full-stack Developer | UI/UX Engineer | App Architect | Logical & Creative Thinker | IoT enthusiast</h3>
 <p align="center"><em>"Binary is just Boolean with commitment issues."</em></p>
 
 ---
