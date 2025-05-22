@@ -42,7 +42,6 @@
 <p align="left">
 <a href="https://web.facebook.com/pulindu.thenura.18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100089910035602" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pulindu.thenura/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_toxic03" height="30" width="40" /></a>
-<a href="/https://rtharusha.tech/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rtharusha.tech/index.xml" height="30" width="40" /></a>
 </p>
 
 - 📧 Reach me: [`wppulindum@gmail.com`](mailto:wppulindum@gmail.com)
