@@ -5,12 +5,11 @@
 ---
 
 <p align="center">
-  🌟 Check out my latest GitHub contribution widget:<br>
+  Languages | Tools | Frameworks skilled with<br>
   <a href="https://wppthenura.github.io/gitpro/" target="_blank">
     <img src="https://img.shields.io/badge/Live-GitPro-blue?style=for-the-badge&logo=github" alt="GitPro Demo" />
   </a>
   <br/>
-  <a href="https://github.com/wppthenura/gitpro" target="_blank">🔗 GitHub Repository</a>
 </p>
 
 ---
