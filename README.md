@@ -7,7 +7,7 @@
 ### Languages | Tools | Frameworks ***skilled with***
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,flutter,dart,java,c,cpp,cs,mysql,mongodb,firebase,linux,git,postman,arduino,tailwind,photoshop,illustrator&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,java,js,ts,react,nodejs,flutter,dart,cpp,cs,mysql,mongodb,firebase,linux,git,postman,arduino,tailwind,photoshop,illustrator&perline=10" alt="Tech Stack" />
 </p>
 
 ---
