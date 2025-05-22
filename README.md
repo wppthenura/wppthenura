@@ -4,8 +4,6 @@
 
 ---
 
-### 🔥 Featured Project: GitPro Widget
-
 <p align="center">
   🌟 Check out my latest GitHub contribution widget:<br>
   <a href="https://wppthenura.github.io/gitpro/" target="_blank">
