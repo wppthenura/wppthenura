@@ -1,6 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Pulindu Thenura</h1>
 <h3 align="center"> Full-stack Developer | UI/UX Engineer | App Architect | Logical & Creative Thinker | IoT enthusiast</h3>
 <p align="center"><em>"Binary is just Boolean with commitment issues."</em></p>
+<p align="center">"<strong>Reach me : </strong>[`wppulindum@gmail.com`](mailto:wppulindum@gmail.com)"</p>
 
 ---
 
@@ -13,7 +14,7 @@
 ---
 
 ### Passionate about building **Mobile Applications, Web Applications, Real-time Web Dashboards**, and **Hardware Integrations** 
-       `C` , `C#` , `C++` , `Java` , `Dart` , `Javascript` , `React.js` , `Go` , `PHP` ,  `SQL` , `MongoDB`
+       `C` , `C#` , `C++` , `Java` , `Dart` , `JavaScript` , `React.js` , `Go` , `PHP` ,  `SQL` , `MongoDB`
 ---
 
 <table>
@@ -25,10 +26,7 @@
   </tr>
 </table>
 
-### 📬 Get in Touch
-
 - 📧 Email: [`wppulindum@gmail.com`](mailto:wppulindum@gmail.com)
-- 🌐 Portfolio: _Coming Soon_
 
 ---
 
