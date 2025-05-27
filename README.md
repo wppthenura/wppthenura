@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wppthenura&layout=compact&cache_seconds=3600" height="140px"/>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=wppthenura&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://ghchart.rshah.org/006aff/wppthenura" alt="wppthenura's Github chart" />
 </p>
 
 ---
