@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wppthenura&layout=compact&cache_seconds=3600" height="140px"/>
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wppthenura" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wppthenura&cacheBust=1234567890" />
 </p>
 
 ---
