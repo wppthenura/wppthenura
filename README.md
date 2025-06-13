@@ -3,7 +3,7 @@
 
 ---
 
-### Languages | Tools | Frameworks   ***skilled with***.......
+### Languages | Tools | Frameworks   ***skilled with***
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,js,html,css,ts,react,nodejs,flutter,dart,cpp,cs,mysql,mongodb,firebase,linux,git,postman,arduino,tailwind,photoshop,illustrator&perline=11" alt="Tech Stack" />
@@ -20,7 +20,7 @@
     <td><img src="Logoostocare.png" alt="OstoCare Logo" width="120"/></td>
     <td>
       <h3>Ostocare</h3>
-      <strong>-Currently leading this industry-level mobile application project as the Head Developer, guiding my talented development team.<br>-This is a mobile application developed for the healthcare sector, with a primary focus on supporting Ostomy patients.
+      <strong>-Currently leading this industry-level mobile application project as the Head Developer, with my talented development team.<br>-This is a mobile application developed for the healthcare sector, with a primary focus on supporting Ostomy patients.
       <br>-It is one of my major mobile development projects, created in collaboration with a team of skilled developers.</strong>
     </td>
   </tr>
@@ -44,7 +44,7 @@
 
 - 📧 Reach me: [`wppulindum@gmail.com`](mailto:wppulindum@gmail.com)
 
----
+--
 
 <p align="center"><strong>"No luck, only skills."</strong></p>
 
