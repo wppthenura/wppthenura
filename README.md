@@ -44,7 +44,7 @@
 
 - 📧 Reach me: [`wppulindum@gmail.com`](mailto:wppulindum@gmail.com)
 
---
+---
 
 <p align="center"><strong>"No luck, only skills."</strong></p>
 
