@@ -3,7 +3,7 @@
 
 ---
 
-### Languages | Tools | Frameworks   ***skilled with***
+### Languages | Tools | Frameworks   ***skilled with***.......
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,js,html,css,ts,react,nodejs,flutter,dart,cpp,cs,mysql,mongodb,firebase,linux,git,postman,arduino,tailwind,photoshop,illustrator&perline=11" alt="Tech Stack" />
@@ -28,7 +28,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Work Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=wppthenura&cacheBust=9876543210" />
